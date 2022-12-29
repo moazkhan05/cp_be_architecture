@@ -1,0 +1,26 @@
+{
+  "name": "cp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://maozkhan05@github.com/moazkhan05/cp_be_architecture.git"
+  },
+  "author": "maazkhan05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moazkhan05/cp_be_architecture/issues"
+  },
+  "homepage": "https://github.com/moazkhan05/cp_be_architecture#readme",
+  "dependencies": {
+    "bull": "4.10.2",
+    "express": "4.18.2",
+    "mongoose": "6.8.1",
+    "redis": "4.5.1"
+  }
+}
